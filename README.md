@@ -5,7 +5,7 @@
 <br><br>
 I'm a Fresh graduate of Computer Engineering of State University of Makassar, i once interned student at CV.STWOR, also one of Google Student Developer Club Membership. I just an ordinary student with a 3.44 GPA, but i've completed a lot of projects in Image Peocessing, Dataset, Iot, AI, Android APK, or Website. 
 ## Languages and tools
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/sugiawan-461a991ba/</h3>
 <p align="left">
 </p>
 
