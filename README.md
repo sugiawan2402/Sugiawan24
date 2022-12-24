@@ -4,18 +4,10 @@
 ![Blue and Black Simple Neon Programming Tips YouTube Thumbnail (2)](https://user-images.githubusercontent.com/55156159/209433205-a38b9fa2-ae37-4957-9f1b-e3a31f8fdbf7.png)
 <br><br>
 I'm a Fresh graduate of Computer Engineering of State University of Makassar, i once interned student at CV.STWOR, also one of Google Student Developer Club Membership. I just an ordinary student with a 3.44 GPA, but i've completed a lot of projects in Image Peocessing, Dataset, Iot, AI, Android APK, or Website. 
-## Skill
-<img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=white" />
+## Languages and tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<img align="left" alt="Pytorch" src="https://img.shields.io/badge/pytorch%20-%23316192.svg?&style=for-the-badge&logo=flask&logoColor=white" />
-
-<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL%20-2596be?logo=mysql&logoColor=white&style=for-the-badge" />
-
-<img align="left" alt="html" src="https://img.shields.io/badge/HTML%20-EC9E1E.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
-
-<img align="left" alt="css" src="https://img.shields.io/badge/CSS-1E7CEC?logo=CSS3&logoColor=white&style=for-the-badge" />
-
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-F5E015.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-
-<br>
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
