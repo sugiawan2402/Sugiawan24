@@ -7,7 +7,7 @@ I'm a Fresh graduate of Computer Engineering of State University of Makassar, i 
 ## Skill
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=white" />
 
-<img align="left" alt="Pytorch" src="https://img.shields.io/badge/flask%20-%23316192.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+<img align="left" alt="Pytorch" src="https://img.shields.io/badge/pytorch%20-%23316192.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL%20-2596be?logo=mysql&logoColor=white&style=for-the-badge" />
 
